@@ -1,4 +1,4 @@
-﻿# rick-and-morty
+﻿# Rick-and-Morty
 ## Description:
 * This application saves to the database the characters from the cartoon Rick and Morty.
 * The ability to get a random character from the database.
